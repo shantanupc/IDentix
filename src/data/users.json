@@ -1,0 +1,69 @@
+[
+  {
+    "user_id": "CS2021_001",
+    "username": "rahul",
+    "password": "$2b$10$RTdF2OQC6VusfIWoP37obOKphhqRcU.8x.NziyA9vROmeNLLvX0Si",
+    "name": "Rahul Sharma",
+    "age": 21,
+    "department": "Computer Science",
+    "stream": "Engineering",
+    "year": "Third Year",
+    "semester": "6"
+  },
+  {
+    "user_id": "CS2021_002",
+    "username": "priya",
+    "password": "$2b$10$RTdF2OQC6VusfIWoP37obOKphhqRcU.8x.NziyA9vROmeNLLvX0Si",
+    "name": "Priya Patel",
+    "age": 20,
+    "department": "Computer Science",
+    "stream": "Engineering",
+    "year": "Second Year",
+    "semester": "4"
+  },
+  {
+    "user_id": "EC2021_003",
+    "username": "amit",
+    "password": "$2b$10$RTdF2OQC6VusfIWoP37obOKphhqRcU.8x.NziyA9vROmeNLLvX0Si",
+    "name": "Amit Kumar",
+    "age": 22,
+    "department": "Electronics",
+    "stream": "Engineering",
+    "year": "Fourth Year",
+    "semester": "8"
+  },
+  {
+    "user_id": "ME2021_004",
+    "username": "sneha",
+    "password": "$2b$10$RTdF2OQC6VusfIWoP37obOKphhqRcU.8x.NziyA9vROmeNLLvX0Si",
+    "name": "Sneha Desai",
+    "age": 21,
+    "department": "Mechanical",
+    "stream": "Engineering",
+    "year": "Third Year",
+    "semester": "6"
+  },
+  {
+    "user_id": "CS2021_005",
+    "username": "vikram",
+    "password": "$2b$10$RTdF2OQC6VusfIWoP37obOKphhqRcU.8x.NziyA9vROmeNLLvX0Si",
+    "name": "Vikram Singh",
+    "age": 20,
+    "department": "Computer Science",
+    "stream": "Engineering",
+    "year": "Second Year",
+    "semester": "4"
+  },
+  {
+    "type": "verifier",
+    "username": "admin",
+    "password": "$2b$10$Gkoxrm8EqTh8ADXNnl.UU.1JVJZgYQW1C.f9MMhXHm1IMBPOhovHm",
+    "name": "Admin Verifier"
+  },
+  {
+    "type": "verifier",
+    "username": "hod",
+    "password": "$2b$10$ewuz6PozZMk0DnDGHcv/LODpdHspBfWyv0f/v9yugYCjuUj1N0ciG",
+    "name": "HOD Verifier"
+  }
+]

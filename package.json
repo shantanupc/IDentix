@@ -1,0 +1,22 @@
+{
+  "name": "universal-identity-backend",
+  "version": "1.0.0",
+  "description": "Blockchain-Based Universal Identity Verification System Backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "seed": "node seed.js"
+  },
+  "keywords": ["blockchain", "ethereum", "identity-verification", "universal"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0",
+    "cors": "^2.8.5",
+    "bcrypt": "^5.1.1",
+    "mongoose": "^8.0.3"
+  }
+}
