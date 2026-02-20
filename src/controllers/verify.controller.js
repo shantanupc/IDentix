@@ -107,11 +107,11 @@ const verifyTimestamp = async (req, res) => {
       return errorResponse(res, 'User not found', 404);
     }
 
-    // Step 2: Expiry check (60 seconds validity)
+    // Step 2: Expiry check (30 seconds validity)
     const currentTime = Math.floor(Date.now() / 1000); // Convert to seconds
     const timeDifference = currentTime - timestamp;
 
-    if (timeDifference > 60) {
+    if (timeDifference > 30) {
       return successResponse(res, 'Verification failed', {
         verified: false,
         reason: 'QR code expired',
@@ -120,7 +120,7 @@ const verifyTimestamp = async (req, res) => {
         timestamp,
         currentTime,
         timeDifference,
-        details: 'QR code has exceeded 60-second validity period'
+        details: 'QR code has exceeded 30-second validity period'
       });
     }
 
@@ -173,7 +173,7 @@ const verifyTimestamp = async (req, res) => {
       userName: user.name,
       timestamp,
       currentTime,
-      timeRemaining: 60 - timeDifference,
+      timeRemaining: 30 - timeDifference,
       details: 'Dynamic QR code verified successfully within validity period'
     });
 
