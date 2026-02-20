@@ -19,8 +19,22 @@ const getUser = async (req, res) => {
       return errorResponse(res, 'User not found', 404);
     }
     
-    // Password is automatically excluded by User model toJSON method
-    return successResponse(res, 'User data retrieved', user);
+    // Fetch blockchain hash
+    let blockchainHash = null;
+
+    try {
+      blockchainHash = await getHashFromBlockchain(user_id);
+    } catch (err) {
+      console.log('No blockchain hash found for user');
+    }
+
+    // Convert mongoose document to plain object
+    const userData = user.toObject();
+
+    // Add blockchain hash to response
+    userData.blockchain_hash = blockchainHash || null;
+
+    return successResponse(res, 'User data retrieved', userData);
     
   } catch (error) {
     return errorResponse(res, `Failed to retrieve user: ${error.message}`, 500);
