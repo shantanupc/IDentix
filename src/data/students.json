@@ -1,0 +1,1507 @@
+[
+  {
+    "Student ID": "22BE0559",
+    "Name": "Aarya Kishor Loke",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670001
+  },
+  {
+    "Student ID": "22BE0493",
+    "Name": "Aaryan Nandkumar Ravekar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670002
+  },
+  {
+    "Student ID": "22BE0664",
+    "Name": "Aayush Amarkumar Thakur",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670003
+  },
+  {
+    "Student ID": "22BE0709",
+    "Name": "Aayush Suresh Kandalkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670004
+  },
+  {
+    "Student ID": "23BE0690",
+    "Name": "Abhishek Murlidhar Chavan",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670005
+  },
+  {
+    "Student ID": "23BE0697",
+    "Name": "Aditya Rajesh Sahu",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670006
+  },
+  {
+    "Student ID": "22BE0268",
+    "Name": "Alisha Narendra Dongare",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670007
+  },
+  {
+    "Student ID": "22BE0144",
+    "Name": "Aman Mangesh Deshmukh",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670008
+  },
+  {
+    "Student ID": "22BE0208",
+    "Name": "Amruta Vijay Durge",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670009
+  },
+  {
+    "Student ID": "22BE0128",
+    "Name": "Aniruddha Ajay Saraf",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670010
+  },
+  {
+    "Student ID": "23BE0686",
+    "Name": "Anjali Vinayak Sonone",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670011
+  },
+  {
+    "Student ID": "23BE0666",
+    "Name": "Ankita Manoj Deshmukh",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670012
+  },
+  {
+    "Student ID": "22BE0482",
+    "Name": "Anshu Vijay Ingle",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670013
+  },
+  {
+    "Student ID": "22BE0692",
+    "Name": "Anuja Harishchandra Khandar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670014
+  },
+  {
+    "Student ID": "21BE0474",
+    "Name": "Anuja Nandurkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670015
+  },
+  {
+    "Student ID": "22BE0261",
+    "Name": "Anuja Pravin Hirulkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670016
+  },
+  {
+    "Student ID": "22BE0032",
+    "Name": "Anuradha Rajesh Karule",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670017
+  },
+  {
+    "Student ID": "22BE0365",
+    "Name": "Arya Rajesh Saksule",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670018
+  },
+  {
+    "Student ID": "22BE0684",
+    "Name": "Ashmit Lunawat",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670019
+  },
+  {
+    "Student ID": "23BE0677",
+    "Name": "Asmita Sham Gore",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670020
+  },
+  {
+    "Student ID": "22BE0372",
+    "Name": "Atharv Raju Petkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670021
+  },
+  {
+    "Student ID": "22BE0449",
+    "Name": "Ayushraj Dayanand Pandey",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670022
+  },
+  {
+    "Student ID": "22BE0048",
+    "Name": "Chaitanya Dushyant Kandalkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670023
+  },
+  {
+    "Student ID": "22BE0147",
+    "Name": "Charwak Sanjay Bhonde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670024
+  },
+  {
+    "Student ID": "22BE0453",
+    "Name": "Deep Nandkishor Gole",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670025
+  },
+  {
+    "Student ID": "21BE0616",
+    "Name": "Dhanashri Shirbhate",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670026
+  },
+  {
+    "Student ID": "22BE0642",
+    "Name": "Esha Lonkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670027
+  },
+  {
+    "Student ID": "22BE0230",
+    "Name": "Gargi Sachin Bhoyar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670028
+  },
+  {
+    "Student ID": "23BE0650",
+    "Name": "Gaurang Pravin Bhasme",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670029
+  },
+  {
+    "Student ID": "22BE0307",
+    "Name": "Gauri Sunil Bakal",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670030
+  },
+  {
+    "Student ID": "23BE0657",
+    "Name": "Gayatri Jayawant Patil",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670031
+  },
+  {
+    "Student ID": "22BE0049",
+    "Name": "Gopesh Musale",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670032
+  },
+  {
+    "Student ID": "22BE0696",
+    "Name": "Harshal Onkar Bijewar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670033
+  },
+  {
+    "Student ID": "22BEO247",
+    "Name": "Harshal Prashant Umak",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670034
+  },
+  {
+    "Student ID": "22BE0221",
+    "Name": "Harshwardhan Dhanraj Talware",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670035
+  },
+  {
+    "Student ID": "22BE0224",
+    "Name": "Hitesh Mahendra Bhope",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670036
+  },
+  {
+    "Student ID": "22BE0400",
+    "Name": "Isha Aniruddha Dixit",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670037
+  },
+  {
+    "Student ID": "22BE0265",
+    "Name": "Isha Ravindra Kakde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670038
+  },
+  {
+    "Student ID": "22BE0407",
+    "Name": "Ishvari Vinod Munde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670039
+  },
+  {
+    "Student ID": "22BE0124",
+    "Name": "Jagruti Avinash Shende",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670040
+  },
+  {
+    "Student ID": "22BE0363",
+    "Name": "Kartik Prashant Gorde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670041
+  },
+  {
+    "Student ID": "22BE0301",
+    "Name": "Khushi Mangal Gohar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670042
+  },
+  {
+    "Student ID": "222BE0234",
+    "Name": "Khushi Taresh Jain",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670043
+  },
+  {
+    "Student ID": "22BE0157",
+    "Name": "Lukesh D. Kohle",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670044
+  },
+  {
+    "Student ID": "22BE0646",
+    "Name": "Manaswi Manoj Malatpure",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670045
+  },
+  {
+    "Student ID": "22BE0420",
+    "Name": "Mayank Laxminarayan Gaur",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670046
+  },
+  {
+    "Student ID": "22BE0191",
+    "Name": "Meghna Shankar Meshram",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670047
+  },
+  {
+    "Student ID": "22BE0171",
+    "Name": "Mrinmayee Arvind Khonde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670048
+  },
+  {
+    "Student ID": "22BE0389",
+    "Name": "Nayan Gajanan Take",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670049
+  },
+  {
+    "Student ID": "22BE0496",
+    "Name": "Nikhil Satish Ninghot",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670050
+  },
+  {
+    "Student ID": "21BE0077",
+    "Name": "Nisha Dhanraj Pande",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670051
+  },
+  {
+    "Student ID": "22BE0098",
+    "Name": "Om Ajay Pande",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670052
+  },
+  {
+    "Student ID": "22BE0367",
+    "Name": "Palak Ghanshyam Sharma",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670053
+  },
+  {
+    "Student ID": "22BE0308",
+    "Name": "Palak Rajendra Shirbhate",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670054
+  },
+  {
+    "Student ID": "22BE0151",
+    "Name": "Payal Kishor Bobade",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670055
+  },
+  {
+    "Student ID": "22BE0476",
+    "Name": "Prajwal Raju Dorak",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670056
+  },
+  {
+    "Student ID": "22BE0246",
+    "Name": "Pranay Udelal Lilhare",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670057
+  },
+  {
+    "Student ID": "22BE0244",
+    "Name": "Pranit Dinesh Girsawle",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670058
+  },
+  {
+    "Student ID": "22BE0715",
+    "Name": "Pratik Maroti Bawankar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670059
+  },
+  {
+    "Student ID": "22BE0402",
+    "Name": "Pratik Satish Dashore",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670060
+  },
+  {
+    "Student ID": "22BE0680",
+    "Name": "Pratik Vijay Gawande",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670061
+  },
+  {
+    "Student ID": "22BE0167",
+    "Name": "Pratiksha Dattatraya Kukade",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670062
+  },
+  {
+    "Student ID": "23BE0633",
+    "Name": "Priti Sanjay Wankhade",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670063
+  },
+  {
+    "Student ID": "22BE0361",
+    "Name": "Priyanka Fakirji Khadke",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670064
+  },
+  {
+    "Student ID": "22BE0444",
+    "Name": "Punam Ashok Adhao",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670065
+  },
+  {
+    "Student ID": "22BE0451",
+    "Name": "Purva Harish Pimpalkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670066
+  },
+  {
+    "Student ID": "22BE0457",
+    "Name": "Radhika Pravin Hadole",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670067
+  },
+  {
+    "Student ID": "23BE0668",
+    "Name": "Radhika Vilas Sable",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670068
+  },
+  {
+    "Student ID": "22BE0107",
+    "Name": "Rahul Pramod Maske",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670069
+  },
+  {
+    "Student ID": "22BE0388",
+    "Name": "Rakshit Rakesh Sinha",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670070
+  },
+  {
+    "Student ID": "22BE0504",
+    "Name": "Ramkishan Datta Jadhav",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670071
+  },
+  {
+    "Student ID": "22BE0143",
+    "Name": "Rashi Rajendra Ladvikar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670072
+  },
+  {
+    "Student ID": "22BE0205",
+    "Name": "Rohan Sanjay Rele",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670073
+  },
+  {
+    "Student ID": "22BE0055",
+    "Name": "Rohit Dipak Khaire",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670074
+  },
+  {
+    "Student ID": "22BE0297",
+    "Name": "Rohit Gajanan Hage",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670075
+  },
+  {
+    "Student ID": "22BE0126",
+    "Name": "Rushikesh Rajkumar Dande",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670076
+  },
+  {
+    "Student ID": "22BE0256",
+    "Name": "Rutuja Anil Yeotkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670077
+  },
+  {
+    "Student ID": "22BE0267",
+    "Name": "Rutuja Satish Dange",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670078
+  },
+  {
+    "Student ID": "22BE0652",
+    "Name": "Sairandhree Nitin Shirke",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670079
+  },
+  {
+    "Student ID": "22BE0070",
+    "Name": "Sakshi Ganeshrao Gomase",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670080
+  },
+  {
+    "Student ID": "22BE0125",
+    "Name": "Sakshi Nandkishor Bhagwat",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670081
+  },
+  {
+    "Student ID": "22BE0184",
+    "Name": "Sakshi Pinge",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670082
+  },
+  {
+    "Student ID": "22BE0114",
+    "Name": "Samiksha Dayaram Chavhan",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670083
+  },
+  {
+    "Student ID": "22BE0450",
+    "Name": "Samruddhi Nitin Gawande",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670084
+  },
+  {
+    "Student ID": "22BE0516",
+    "Name": "Samyak Arun Bhagat",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670085
+  },
+  {
+    "Student ID": "22BE0503",
+    "Name": "Sanika Kishor Gadekar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670086
+  },
+  {
+    "Student ID": "23BE0275",
+    "Name": "Sanika Sunil Korde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670087
+  },
+  {
+    "Student ID": "22BE0352",
+    "Name": "Sarthi Gajanan Thokal",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670088
+  },
+  {
+    "Student ID": "22BEO183",
+    "Name": "Satvik Gajendra Deshmukh",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670089
+  },
+  {
+    "Student ID": "22BE0137",
+    "Name": "Sayali Balabhau Tikar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670090
+  },
+  {
+    "Student ID": "22BE0324",
+    "Name": "Shailesh Virendra Bakale",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670091
+  },
+  {
+    "Student ID": "22BE0041",
+    "Name": "Shambhavi Laxmansing Asole",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670092
+  },
+  {
+    "Student ID": "22BE0661",
+    "Name": "Shantanu Pradip Chimote",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670093
+  },
+  {
+    "Student ID": "22BE0371",
+    "Name": "Sharwari Rajesh Mondhe",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670094
+  },
+  {
+    "Student ID": "22BE0501",
+    "Name": "Shatayu Someshwar Balapure",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670095
+  },
+  {
+    "Student ID": "23BE0696",
+    "Name": "Shlok Jigesh Patel",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670096
+  },
+  {
+    "Student ID": "22BE0106",
+    "Name": "Shravani Ganesh Kalbande",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670097
+  },
+  {
+    "Student ID": "22BE0672",
+    "Name": "Shravani Pravin Bijwe",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670098
+  },
+  {
+    "Student ID": "22BE0198",
+    "Name": "Shravani Pravin Ingole",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670099
+  },
+  {
+    "Student ID": "22BE0663",
+    "Name": "Shreeya Sunil Lande",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670100
+  },
+  {
+    "Student ID": "22BE0311",
+    "Name": "Shreya Ajay Jumle",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670101
+  },
+  {
+    "Student ID": "22BE0193",
+    "Name": "Shreya Ganesh Wankhade",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670102
+  },
+  {
+    "Student ID": "22BE0092",
+    "Name": "Shreya Khairkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670103
+  },
+  {
+    "Student ID": "22BE0181",
+    "Name": "Shreya Rajendra Ladole",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670104
+  },
+  {
+    "Student ID": "22BE0255",
+    "Name": "Shruti Sunil Bhakte",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670105
+  },
+  {
+    "Student ID": "22BE0401",
+    "Name": "Siddhi Avinash Bhadange",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670106
+  },
+  {
+    "Student ID": "22BE0395",
+    "Name": "Somen Diliprao Gadekar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670107
+  },
+  {
+    "Student ID": "22BE0695",
+    "Name": "Sumedha Akash Ghuikhedkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670108
+  },
+  {
+    "Student ID": "22BE0718",
+    "Name": "Sumidhi Bokde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670109
+  },
+  {
+    "Student ID": "22BE0154",
+    "Name": "Sunny Gajanan Bhatkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670110
+  },
+  {
+    "Student ID": "23BE0682",
+    "Name": "Swaraj Rajesh Rathod",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670111
+  },
+  {
+    "Student ID": "23BE0679",
+    "Name": "Swaraj Vijay Chikhale",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670112
+  },
+  {
+    "Student ID": "22BE0186",
+    "Name": "Tanayya Dipak Gade",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670113
+  },
+  {
+    "Student ID": "22BE0538",
+    "Name": "Tanmay Pradeep Kalwaghe",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670114
+  },
+  {
+    "Student ID": "23BE0674",
+    "Name": "Tanvi Govardhan Hingankar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670115
+  },
+  {
+    "Student ID": "23BE0648",
+    "Name": "Tanvi Santosh Zode",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670116
+  },
+  {
+    "Student ID": "22BE0130",
+    "Name": "Tejas Hareshwar Mehar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670117
+  },
+  {
+    "Student ID": "22BE0509",
+    "Name": "Tilak Rathi",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670118
+  },
+  {
+    "Student ID": "22BE0260",
+    "Name": "Utkarsha Dnyaneshwar Tamgire",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670119
+  },
+  {
+    "Student ID": "21BE0541",
+    "Name": "Vaishnavi Dadarao Dange",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670120
+  },
+  {
+    "Student ID": "22BE0016",
+    "Name": "Vaishnavi Madhvi",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670121
+  },
+  {
+    "Student ID": "22BE0209",
+    "Name": "Vaishnavi Sanjay Jawanjal",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670122
+  },
+  {
+    "Student ID": "22BE0644",
+    "Name": "Ved Rajesh Misar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670123
+  },
+  {
+    "Student ID": "21BE0607",
+    "Name": "Vedant Nandkishor Galhat",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670124
+  },
+  {
+    "Student ID": "22BE0315",
+    "Name": "Vedant Neeraj Thakare",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670125
+  },
+  {
+    "Student ID": "22BE0227",
+    "Name": "Vedant Pravin Khairkar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670126
+  },
+  {
+    "Student ID": "22BE0684",
+    "Name": "Vedanti Chandrashekhar Sawwalakhe",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670127
+  },
+  {
+    "Student ID": "22BE0419",
+    "Name": "Vignesh Madhao Totawar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670128
+  },
+  {
+    "Student ID": "23BE0661",
+    "Name": "Vinay Suresh Nage",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670129
+  },
+  {
+    "Student ID": "22BE0463",
+    "Name": "Vivek Dnyaneshwar Gazalwar",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670130
+  },
+  {
+    "Student ID": "22BE0110",
+    "Name": "Yash Sanjay Bakde",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670131
+  },
+  {
+    "Student ID": "22BE0222",
+    "Name": "Yash Shankar Nyaykhor",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670132
+  },
+  {
+    "Student ID": "22BE0714",
+    "Name": "Aliasghar Huzefa Sabir",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670133
+  },
+  {
+    "Student ID": "22BE0438",
+    "Name": "Jay Kishor Vakil",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670134
+  },
+  {
+    "Student ID": "22BE0226",
+    "Name": "Azam Gulab Shaikh",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670135
+  },
+  {
+    "Student ID": "22BE0242",
+    "Name": "Yash Rajesh Wani",
+    "Branch": "Information Technology",
+    "Year of Passing": 2026,
+    "Aadhar Number": 910045670136
+  },
+  {
+    "Student ID": "22BE0067",
+    "Name": "Achal Rajendra Gajbhiye",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340001
+  },
+  {
+    "Student ID": "22BE0158",
+    "Name": "Aditi Anil Devikar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340002
+  },
+  {
+    "Student ID": "22BE0338",
+    "Name": "Advait Sandeep Tripathi",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340003
+  },
+  {
+    "Student ID": "22BE0468",
+    "Name": "Akanksha Rajendrarao Deshmukh",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340004
+  },
+  {
+    "Student ID": "22BE0166",
+    "Name": "Anand Vivek Tayde",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340005
+  },
+  {
+    "Student ID": "22BE0638",
+    "Name": "Anisha Prafulla Kale",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340006
+  },
+  {
+    "Student ID": "22BE0071",
+    "Name": "Anishka Vinod Dhande",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340007
+  },
+  {
+    "Student ID": "22BE0263",
+    "Name": "Anuj Narendra Gite",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340008
+  },
+  {
+    "Student ID": "22BE0323",
+    "Name": "Anurag Laxmikant Gahankari",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340009
+  },
+  {
+    "Student ID": "22BE0035",
+    "Name": "Apurva Anilrao Landge",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340010
+  },
+  {
+    "Student ID": "22BE0485",
+    "Name": "Ashwini Nitin Shingane",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340011
+  },
+  {
+    "Student ID": "22BEO328",
+    "Name": "Ashwini Sunil Agarkar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340012
+  },
+  {
+    "Student ID": "22BE0161",
+    "Name": "Atharva Anil Nathe",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340013
+  },
+  {
+    "Student ID": "23BE0643",
+    "Name": "Ayan Israil Pathan",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340014
+  },
+  {
+    "Student ID": "22BE0034",
+    "Name": "Bhawana Arjun Pawar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340015
+  },
+  {
+    "Student ID": "22BE0192",
+    "Name": "Dhanashree Kailas Hiwase",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340016
+  },
+  {
+    "Student ID": "22BE0024",
+    "Name": "Dhanshri Raju Wangal",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340017
+  },
+  {
+    "Student ID": "22BE0175",
+    "Name": "Dipak Prakash Gade",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340018
+  },
+  {
+    "Student ID": "22BE0195",
+    "Name": "Divya Satish Bahekar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340019
+  },
+  {
+    "Student ID": "23BE0635",
+    "Name": "Ekta Pawan Soni",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340020
+  },
+  {
+    "Student ID": "22BE0621",
+    "Name": "Gaurav Raju Watmode",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340021
+  },
+  {
+    "Student ID": "22BE0622",
+    "Name": "Gauri Raju Watmode",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340022
+  },
+  {
+    "Student ID": "22BE0022",
+    "Name": "Gauri Suresh Kutarmare",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340023
+  },
+  {
+    "Student ID": "22BE0148",
+    "Name": "Harshal Vijay Devale",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340024
+  },
+  {
+    "Student ID": "22BE0254",
+    "Name": "Isha Deepak Sharma",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340025
+  },
+  {
+    "Student ID": "23BE0624",
+    "Name": "Janavi Sanjay Landkar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340026
+  },
+  {
+    "Student ID": "22BE0592",
+    "Name": "Janhavi Prashant Kalve",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340027
+  },
+  {
+    "Student ID": "22BE0590",
+    "Name": "Jitika Sandeep Gupta",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340028
+  },
+  {
+    "Student ID": "23BE0618",
+    "Name": "Kartik Santosh Gadhave",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340029
+  },
+  {
+    "Student ID": "22BE0426",
+    "Name": "Kartikesh Balasaheb Tongase",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340030
+  },
+  {
+    "Student ID": "22BE0306",
+    "Name": "Khushi Santosh Dhonde",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340031
+  },
+  {
+    "Student ID": "22BE0206",
+    "Name": "Khushi Sharad Raut",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340032
+  },
+  {
+    "Student ID": "22BE0117",
+    "Name": "Monika Premchand Lalwani",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340033
+  },
+  {
+    "Student ID": "23BE0623",
+    "Name": "Nikita Pradip Sawai",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340034
+  },
+  {
+    "Student ID": "22BE0194",
+    "Name": "Nishant Vinayak Sonone",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340035
+  },
+  {
+    "Student ID": "22BE0432",
+    "Name": "Om Nitin Kale",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340036
+  },
+  {
+    "Student ID": "22BE0169",
+    "Name": "Pavan Devanand Bobade",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340037
+  },
+  {
+    "Student ID": "22BE0018",
+    "Name": "Payal Rameshwar Sune",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340038
+  },
+  {
+    "Student ID": "22BE0259",
+    "Name": "Prajwal Prabhakar Mandaokar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340039
+  },
+  {
+    "Student ID": "23BE0626",
+    "Name": "Pranali Vijay Gulhane",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340040
+  },
+  {
+    "Student ID": "22BE0014",
+    "Name": "Purva Hemant Gorde",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340041
+  },
+  {
+    "Student ID": "22BE0109",
+    "Name": "Rajat Shodhan Awachare",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340042
+  },
+  {
+    "Student ID": "22BE0033",
+    "Name": "Rajesh Mahanand Yadav",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340043
+  },
+  {
+    "Student ID": "22BE0593",
+    "Name": "Riddhi Pramod Ingole",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340044
+  },
+  {
+    "Student ID": "22BE0142",
+    "Name": "Rohan Santosh Kalekar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340045
+  },
+  {
+    "Student ID": "22BE0037",
+    "Name": "Rohan Sunil Kale",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340046
+  },
+  {
+    "Student ID": "22BE0243",
+    "Name": "Rohit Kishor Nagrale",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340047
+  },
+  {
+    "Student ID": "22BE0080",
+    "Name": "Roshan Gopal Avatirak",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340048
+  },
+  {
+    "Student ID": "23BE0687",
+    "Name": "Rushikesh Ramdas Kedar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340049
+  },
+  {
+    "Student ID": "22BE0329",
+    "Name": "Sakshi Bharat Chaudhari",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340050
+  },
+  {
+    "Student ID": "22BE0021",
+    "Name": "Sakshi Sunil Bijwe",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340051
+  },
+  {
+    "Student ID": "22BE0588",
+    "Name": "Sarthak Vinod Deshpande",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340052
+  },
+  {
+    "Student ID": "22BE0179",
+    "Name": "Satej Gunwantrao Niswade",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340053
+  },
+  {
+    "Student ID": "22BE0085",
+    "Name": "Shaikh Mujahid Shaikh Irfan",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340054
+  },
+  {
+    "Student ID": "22BE0025",
+    "Name": "Shejal Gopal Kolhe",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340055
+  },
+  {
+    "Student ID": "22BE0473",
+    "Name": "Shivam Vijay Onkar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340056
+  },
+  {
+    "Student ID": "22BE0053",
+    "Name": "Shraddha Subhashrao Nimbekar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340057
+  },
+  {
+    "Student ID": "23BE0647",
+    "Name": "Shraddha Vinodrao Makode",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340058
+  },
+  {
+    "Student ID": "23BE0645",
+    "Name": "Shravani Prashant Kadu",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340059
+  },
+  {
+    "Student ID": "22BE0633",
+    "Name": "Shravani Shashikant Balapure",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340060
+  },
+  {
+    "Student ID": "22BE0359",
+    "Name": "Shreya Ravindra Rodge",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340061
+  },
+  {
+    "Student ID": "22BE0495",
+    "Name": "Shreya Sunil Shinde",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340062
+  },
+  {
+    "Student ID": "22BE0201",
+    "Name": "Shreyash Gajanan Kuyate",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340063
+  },
+  {
+    "Student ID": "22BE0044",
+    "Name": "Shrutika Pravin Badode",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340064
+  },
+  {
+    "Student ID": "22BE0326",
+    "Name": "Shubham Mahendra Dande",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340065
+  },
+  {
+    "Student ID": "22BE0140",
+    "Name": "Siddhika Sanjay Bhagat",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340066
+  },
+  {
+    "Student ID": "22BE0580",
+    "Name": "Soundarya Atulkumar Gawande",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340067
+  },
+  {
+    "Student ID": "22BE0434",
+    "Name": "Srushti Mahesh Gulhane",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340068
+  },
+  {
+    "Student ID": "23BE0622",
+    "Name": "Srushti Shashikant Kaulwar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340069
+  },
+  {
+    "Student ID": "22BE0459",
+    "Name": "Tanmayee Sanjay Yede",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340070
+  },
+  {
+    "Student ID": "22BE0113",
+    "Name": "Tanvi Mukund Hantodkar",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340071
+  },
+  {
+    "Student ID": "22BE0176",
+    "Name": "Tejashree Satish Ugale",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340072
+  },
+  {
+    "Student ID": "22BE0241",
+    "Name": "Tushar Bhaskar Kadu",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340073
+  },
+  {
+    "Student ID": "22BE0038",
+    "Name": "Vaishnavi Sanjay Gawande",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340074
+  },
+  {
+    "Student ID": "22BE0168",
+    "Name": "Vedant Vijay Wankhede",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340075
+  },
+  {
+    "Student ID": "22BE0100",
+    "Name": "Vicky Rajesh Bundele",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340076
+  },
+  {
+    "Student ID": "22BE0581",
+    "Name": "Yash Balasaheb Tale",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340077
+  },
+  {
+    "Student ID": "22BE0019",
+    "Name": "Yash Niranjan Harne",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340078
+  },
+  {
+    "Student ID": "22BE0129",
+    "Name": "Yash Prashant Raut",
+    "Branch": "Computer Science",
+    "Year of Passing": 2026,
+    "Aadhar Number": 900012340079
+  }
+]
