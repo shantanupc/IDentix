@@ -2,14 +2,20 @@ const crypto = require('crypto');
 
 // Generate SHA-256 hash from user data object
 const generateHash = (userData) => {
-  // Extract only the fields that should be hashed (exclude password and role)
   const dataToHash = {
     user_id: userData.user_id,
     name: userData.name,
     age: userData.age,
     id_type: userData.id_type,
     id_number: userData.id_number,
-    additional_attributes: userData.additional_attributes || {}
+    additional_attributes: {
+      branch: userData.additional_attributes?.branch || "",
+      session: userData.additional_attributes?.session || "",
+      year: userData.additional_attributes?.year || "",
+      gender: userData.additional_attributes?.gender || "",
+      aadhar_number: userData.additional_attributes?.aadhar_number || "",
+      photo_url: userData.additional_attributes?.photo_url || ""
+    }
   };
 
   // Convert to sorted JSON string for consistency (deterministic)
